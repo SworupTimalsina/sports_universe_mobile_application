@@ -66,7 +66,7 @@ class _CartScreenState extends State<CartScreen> {
         decoration: const BoxDecoration(
           image: DecorationImage(
             image: AssetImage(
-              "assets/images/addtocart.jpg",
+              "assets/images/addtocart.png",
             ),
             fit: BoxFit.cover,
           ),
@@ -84,7 +84,7 @@ class _CartScreenState extends State<CartScreen> {
                 : items.length == 0
                 ? Column(
               children: [
-                Center(child: Text("Please add to favorite")),
+                Center(child: Text("Please add to cart ")),
               ],
             )
                 : Column(children: [

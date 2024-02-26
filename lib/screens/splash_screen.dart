@@ -55,8 +55,10 @@ class _SplashScreenState extends State<SplashScreen> {
             children: [
               Image.asset("assets/images/splash.gif"),
               SizedBox(height: 100,),
-              Text("Sports Universe !!", style: TextStyle(
-                  fontSize: 22
+              Text("Sports Universe !!",
+                style: TextStyle(
+                  fontFamily: 'cursive',
+                  fontSize: 38,
               ),)
             ],
           ),

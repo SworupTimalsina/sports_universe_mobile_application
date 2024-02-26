@@ -44,22 +44,22 @@ class CategoryRepository {
   List<CategoryModel> makeCategory() {
     return [
       CategoryModel(
-          categoryName: "Balls",
+          categoryName: "Boxing",
           status: "active",
           imageUrl:
-          "fhttps://media.istockphoto.com/id/1195696200/vector/balls-for-soccer-rugby-baseball-and-other-sports.jpg"),
+          "https://media.istockphoto.com/id/1195696200/vector/balls-for-soccer-rugby-baseball-and-other-sports.jpg"),
       CategoryModel(
           categoryName: "Gym",
           status: "active",
           imageUrl:
           "https://www.hussle.com/blog/wp-content/uploads/2020/12/Gym-structure-1080x675.png"),
       CategoryModel(
-          categoryName: "Equipments",
+          categoryName: "Taekwondo",
           status: "active",
           imageUrl:
           "https://5.imimg.com/data5/SELLER/Default/2022/9/MS/NA/BT/13105903/axtaekwondo-6-c-g-r-h-s-a-500x500.jpg"),
       CategoryModel(
-          categoryName: "Clothing",
+          categoryName: "Football",
           status: "active",
           imageUrl:
           "https://image.made-in-china.com/202f0j00mwAlaNIcGqus/New-Football-Uniforms-for-Adults-and-Children-s-Training-Uniforms-for-Casual-Games-Printed-Numbers.webp"),

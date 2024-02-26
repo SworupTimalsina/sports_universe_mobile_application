@@ -77,6 +77,14 @@ class _LoginScreenState extends State<LoginScreen> {
                   SizedBox(
                     height: 10,
                   ),
+                  Text(
+              "A Complete Sports Store",
+              style: TextStyle(
+                fontFamily: 'cursive',
+                  fontSize: 38,
+              ),
+            ),
+
                   TextFormField(
                     controller: _emailController,
                     keyboardType: TextInputType.emailAddress,
