@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "599105364990",
+    "firebase_url": "https://sports-universe-14eab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sports-universe-14eab",
+    "storage_bucket": "sports-universe-14eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599105364990:android:a413bd8c0c271ed1a296af",
+        "android_client_info": {
+          "package_name": "com.example.sports_universe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599105364990-ooc6dv0dk6fkuo9059m4s61lrbv9gp6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKhEQBZZjxQFPsZK90rWxrjww7qztp20I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599105364990-ooc6dv0dk6fkuo9059m4s61lrbv9gp6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
