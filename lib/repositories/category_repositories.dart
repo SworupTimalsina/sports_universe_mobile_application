@@ -44,25 +44,25 @@ class CategoryRepository {
   List<CategoryModel> makeCategory() {
     return [
       CategoryModel(
-          categoryName: "Casual",
+          categoryName: "Balls",
           status: "active",
           imageUrl:
-          "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/18274390/2022/5/14/c64644f6-840f-4496-bb42-19359e9881771652523841987RoadsterMenBrownTexturedPUSneakers1.jpg"),
+          "fhttps://media.istockphoto.com/id/1195696200/vector/balls-for-soccer-rugby-baseball-and-other-sports.jpg"),
       CategoryModel(
-          categoryName: "Formal",
+          categoryName: "Gym",
           status: "active",
           imageUrl:
-          "https://media.karousell.com/media/photos/products/2022/7/23/men_formal_shoes_blue_black_br_1658590215_1c815789.jpg"),
+          "https://www.hussle.com/blog/wp-content/uploads/2020/12/Gym-structure-1080x675.png"),
       CategoryModel(
-          categoryName: "Sport",
+          categoryName: "Equipments",
           status: "active",
           imageUrl:
-          "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/17755112/2022/4/4/3e291b2e-2e6a-4699-9f42-ea6d8d9512eb1649088875683ASIANMenWhiteSportsShoes1.jpg"),
+          "https://5.imimg.com/data5/SELLER/Default/2022/9/MS/NA/BT/13105903/axtaekwondo-6-c-g-r-h-s-a-500x500.jpg"),
       CategoryModel(
-          categoryName: "slippers",
+          categoryName: "Clothing",
           status: "active",
           imageUrl:
-          "https://www.realsimple.com/thmb/zn-wqk1cosENpIo7b6I6TkVAo6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/equick-slippers-for-women-and-men-shower-quick-drying-bathroom-sandals-tout-012be75839d242cdadc05fabc66e9d06.jpg"),
+          "https://image.made-in-china.com/202f0j00mwAlaNIcGqus/New-Football-Uniforms-for-Adults-and-Children-s-Training-Uniforms-for-Casual-Games-Printed-Numbers.webp"),
     ];
   }
 }
