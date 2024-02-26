@@ -52,7 +52,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
           )).then((value) {
 
         NotificationService.display(
-          title: "Welcome to Seven Steps...",
+          title: "Welcome to Sports Universe...",
           body: "Hello ${_authViewModel.loggedInUser?.name},\n Thank you for registering in this application.",
         );
         Navigator.of(context).pushReplacementNamed("/dashboard");
@@ -80,7 +80,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
               child: Column(
                 children: [
                   Image.asset(
-                    "assets/images/registration.png",
+                    "assets/images/logo.png",
                     height:200,
                     width: 300,
                   ),

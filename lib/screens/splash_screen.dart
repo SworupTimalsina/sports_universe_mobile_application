@@ -55,7 +55,7 @@ class _SplashScreenState extends State<SplashScreen> {
             children: [
               Image.asset("assets/images/splash.gif"),
               SizedBox(height: 100,),
-              Text("Plese Wait !!", style: TextStyle(
+              Text("Sports Universe !!", style: TextStyle(
                   fontSize: 22
               ),)
             ],

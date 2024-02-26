@@ -61,7 +61,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         children: [
 
                           Image.asset(
-                            "assets/images/banner.jpg",
+                            "assets/images/banner.png",
                             height: 200,
                             width: double.infinity,
                             fit: BoxFit.fill,
